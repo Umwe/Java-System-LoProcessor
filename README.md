@@ -70,4 +70,12 @@ public class Main {
     }
 }
 
+Log Report Summary:
+INFO: 150
+WARN: 23
+ERROR: 5
+DEBUG: 42
+
+ERROR logs:
+2024-09-28 14:33:52 [ERROR] Connection timed out
 
