@@ -79,3 +79,11 @@ DEBUG: 42
 ERROR logs:
 2024-09-28 14:33:52 [ERROR] Connection timed out
 
+Happy logging! 😄
+
+### Steps for Using:
+1. **Replace** `your-username` in the clone command with your GitHub username.
+2. If you're using a specific license, add it to the repository and update the license section in the `README.md`.
+
+This `README.md` file gives a clear overview of the project, how to use it, and how to run the Java class.
+
